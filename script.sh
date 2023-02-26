@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt install httpd -y
+sudo apt install nginx -y
