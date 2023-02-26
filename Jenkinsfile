@@ -177,6 +177,6 @@ spec:
 
 
 
-
+sh 'echo $(Hello)
 
 }
