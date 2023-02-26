@@ -171,12 +171,4 @@ spec:
   }
 
 
-
-
-
-
-
-
-sh 'echo $(Hello)
-
 }
